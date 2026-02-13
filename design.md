@@ -328,3 +328,4 @@ Phase-5: National circular economy dashboard for Bharat
 
 ## 12. Conclusion
 GreenMetrix AI (GM) provides a structured, AI-powered circular economy ecosystem for Bharat by connecting waste generators, collectors, recyclers, and CSR sponsors. The platform ensures waste traceability, optimized logistics, and verified recycling output, enabling measurable sustainability impact at scale.
+
